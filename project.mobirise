@@ -38,7 +38,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.7",
     "siteFonts": [],
-    "uniqCompNum": 20,
+    "uniqCompNum": 21,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -486,7 +486,7 @@
         },
         {
           "_params": {
-            "token": "17760352.727bfe1.d78cc5690fe94215891c08115e427384",
+            "token": "17760352.727bfe1.6f29f7ac337144b5a9a5e7b6514cc490",
             "showTitle": true,
             "layoutGridRadio": true,
             "imagesPerRowGrid": 4,
